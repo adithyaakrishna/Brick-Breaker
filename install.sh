@@ -13,10 +13,10 @@ echo "Installing SDL..."
 sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev
 
 echo "Change Directory"
-cd brickbreaker
+cd brickbreaker/Brick Breaker
 
 echo "Execute File"
-g++ brickbreaker.cpp -lGL -lGLU -lglut
+g++ BrickBreaker.cpp -lGL -lGLU -lglut
 
 echo "Output"
 ./a.out
