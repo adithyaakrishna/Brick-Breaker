@@ -23,7 +23,7 @@ Once You Downloaded The File/Repository and Extracted in Ubuntu, Launch A Termin
 ## Even More Easier Method:
 
     $ git clone https://github.com/thedevilx/brickbreaker
-    $ cd brickbreaker/BrickBreaker
+    $ cd brickbreaker
     $ sh install.sh
 
 * All Rights Reserved <thedevilx.github.io>
