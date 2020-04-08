@@ -1,6 +1,6 @@
 # CG Mini-Project Brick Breaker
 
-### You Need These Files First :
+### You Need These Files(Installations) First :
     $ sudo apt-get install freeglut3-dev
     $ sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev
 
