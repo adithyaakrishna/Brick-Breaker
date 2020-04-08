@@ -6,7 +6,7 @@
 
 ## To Run The File:
 
-#### Open Terminal in Ubuntu
+#### Open Terminal in Ubuntu (Once You Downloaded The File/Repository and Extracted in Ubuntu, Launch A Terminal in The Directory of The Extracted Folder) and Run These
 
     $ g++ filename.cpp -lGL -lGLU -lglut
     $ ./a.out
