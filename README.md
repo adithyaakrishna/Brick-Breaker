@@ -8,9 +8,9 @@
 
 #### Open Terminal in Ubuntu
 
-#### g++ filename.cpp -lGL -lGLU -lglut
+#### 1. g++ filename.cpp -lGL -lGLU -lglut
 
-#### After Ececution --> ./a.out
+#### 2. After Ececution --> ./a.out
 
 * All Rights Reserved <thedevilx.github.io>
 * IG: @adiiikris
