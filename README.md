@@ -19,12 +19,5 @@ Once You Downloaded The File/Repository and Extracted in Ubuntu, Launch A Termin
     $ g++ BrickBreaker.cpp -lGL -lGLU -lglut
     $ ./a.out
 
-
-## Even More Easier Method:
-
-    $ git clone https://github.com/thedevilx/brickbreaker
-    $ cd brickbreaker
-    $ sh install.sh
-
 * All Rights Reserved <thedevilx.github.io>
 * IG: @adiiikris   (For Enquires DM)
