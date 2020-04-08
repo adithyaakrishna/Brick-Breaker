@@ -26,4 +26,4 @@ Once You Downloaded The File/Repository and Extracted in Ubuntu, Launch A Termin
     $ sh install.sh
 
 * All Rights Reserved <thedevilx.github.io>
-* IG: @adiiikris
+* IG: For Enquires DM @adiiikris
