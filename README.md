@@ -14,7 +14,7 @@ Once You Downloaded The File/Repository and Extracted in Ubuntu, Launch A Termin
 
 ## Easier Method:
 
-    $ git clone https://github.com/thedevilx/brickbreaker
+    $ git clone https://github.com/thedevilx/Brick-Breaker
     $ cd brickbreaker/BrickBreaker
     $ g++ BrickBreaker.cpp -lGL -lGLU -lglut
     $ ./a.out
